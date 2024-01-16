@@ -1,0 +1,2 @@
+# JetbrainChinesFix
+Jetbrain家族中文输入法拼音修复
